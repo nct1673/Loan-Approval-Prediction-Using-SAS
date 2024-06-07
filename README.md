@@ -69,11 +69,11 @@ Here are the variables that contain missing values:
 2. loan_duration
 
 Treatment for missing value:
-Categorical - impute by its mode
-Continuous - impute by its mean
+1.Categorical - impute by its mode 
+2.Continuous - impute by its mean
 
 # Model Creation
-Logistic Regression Model will be created in this project.
+Logistic Regression Model will be created in this project. \\
 After create the model, apply the model to predict the loan approval status for 
-applicants in testing set.
+applicants in testing set.\\
 A visualization for the predicted output will be done.
